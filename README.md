@@ -88,4 +88,4 @@ This project is open source under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ by <strong>MD Fuad Hassan Shiraji</strong> · Daffodil International University · SWE '28</p>
+<p align="center">Made with ❤️ by <strong>MD Fuad Hassan Shiraji</strong> · Daffodil International University · SWE '46-L</p>
